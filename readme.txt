@@ -30,7 +30,7 @@ The following error types cannot be handled with a user defined function: E_ERRO
 1. Download the plugin.
 2. Upload the plugin to your wp-content/plugins directory.
 3. Activate the plugin.
-4. Set tour email and reporting options in Settings/Email PHP Errors.
+4. Set the email and reporting options in Settings/Email PHP Errors.
 
 == Changelog ==
 
