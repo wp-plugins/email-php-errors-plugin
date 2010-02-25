@@ -5,7 +5,7 @@ Donate link: https://online.nwf.org/site/Donation2?df_id=6620&6620.donation=form
 Requires at least: 2
 Tested up to: 2.9.2
 Contributors: Keith Graham
-version: 1.0
+Version: 1.0
 
 Catches php errors, and reports last 25. Can also email the results. Good for debugging themes and plugins.
 
